@@ -11,7 +11,7 @@ local INCOME_THRESHOLD = 50_000_000 -- 50M/s минимум для уведом�
 local HIGH_PRIORITY_THRESHOLD = 500_000_000 -- 500M/s для особо важных объектов
 local DISCORD_WEBHOOK_URL = 'https://discord.com/api/webhooks/1424146317604687932/G5mtYy3JUjj0I8OQxIyxBDfr2oU0tHGe96R00BnoUDeRGukoPeSYn4AJBAnCrHJz0da4'
 
-print('🎯 Brainrot Scanner v2.0 | JobId:', game.JobId)
+print('🎯 Brainrot Scanner v2.0 | JobId:', game.JobId)урод
 
 -- 🎮 ОБЪЕКТЫ С ЭМОДЗИ И ВАЖНОСТЬЮ
 local OBJECTS = {
