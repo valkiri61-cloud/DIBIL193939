@@ -1,4 +1,4 @@
--- 🎯 BRAINROT INCOME SCANNER v2.0 (ПОЛНАЯ ВЕРСИЯ)
+ -- 🎯 BRAINROT INCOME SCANNER v2.0 (ПОЛНАЯ ВЕРСИЯ)
 -- Сканирует все объекты в Steal a Brainrot и отправляет уведомления в Discord
 -- Запуск: автоматически при старте + по клавише F
 
@@ -14,7 +14,7 @@ local DISCORD_WEBHOOK_URL = 'https://discord.com/api/webhooks/142414631760468793
 print('🎯 Brainrot Scanner v2.0 | JobId:', game.JobId)
 
 -- 🎮 ОБЪЕКТЫ С ЭМОДЗИ И ВАЖНОСТЬЮ
-local OBJECTS = {
+local OBJECTS = {выаываы
     ['Garama and Madundung'] = { emoji = '🍝', important = true },
     ['Dragon Cannelloni'] = { emoji = '🐲', important = true },
     ['Nuclearo Dinossauro'] = { emoji = '🦕', important = true },
